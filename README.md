@@ -6,6 +6,9 @@ EcoDetect is an AI-powered garden diseases monitoring system that identifies dis
 
 ##Features
 
+IOS and Andriod Application
+Website
+
 Accepts an image as input and predicts waste type or environmental factor.
 Uses a trained deep learning model for classification trained from tomato diseases.
 Provides a confidence score for each prediction.
