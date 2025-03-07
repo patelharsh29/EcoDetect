@@ -1,0 +1,6 @@
+matplotlib
+numpy==1.26.4
+notebook
+tensorflow==2.18.0
+tensorflow-addons
+tensorflow-model-optimization
